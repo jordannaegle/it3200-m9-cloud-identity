@@ -136,3 +136,8 @@ terraform destroy
 
 The completed lab cleanup removed seven managed resources.
 
+## 11. GitHub Repository
+
+Terraform configuration, deployment instructions, and screenshots:
+
+https://github.com/jordannaegle/it3200-m9-cloud-identity
