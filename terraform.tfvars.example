@@ -1,0 +1,6 @@
+subscription_id      = "YOUR_SUBSCRIPTION_ID"
+tenant_id            = "YOUR_TENANT_ID"
+storage_account_name = "YOUR_UNIQUE_STORAGE_ACCOUNT_NAME"
+location             = "westus3"
+student_name         = "jordan"
+container_name       = "reports"
